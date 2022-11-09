@@ -2,4 +2,4 @@
 - 💻 I’m interested in Computational Mathematics with focus on Fluid flow problems.
 - 🛠️ I’m currently doing my PhD and developing simulations with ellipsoidal particles colliding in a turbulent channel flow.
 - 🔗 I’m looking to collaborate on challenging problems with applications in Multiphase Flows, Machine Learning applied to Engineering problems.
-- 📫 kanand.mech94@gmail.com
+- 📫 karan.anand@imft.fr
